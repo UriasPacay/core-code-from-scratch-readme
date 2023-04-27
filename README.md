@@ -3,6 +3,7 @@
 
 Technologies
 Week 1 : 
+
   Hagamos pizza:
   1. Inicio
   2. Tomar la masa
@@ -24,3 +25,15 @@ Week 1 :
   21. Servir las rebanadas de pizza
   22. Comenzar a degustar la pizza
   23. Fin
+
+  Frio y calor:
+  1. Inicio
+  2. Leer temperatura
+  3. Si temperatura esta en Fahrenheit, usar formúla: (°F - 32) x .5556 para convertir a Celsius
+  4. Leer temperatura
+  5. Si temperatura esta en Celsius, usar formúla: (°C x 1.8) + 32 para convertir a Fahrenheit
+  6. Fin
+ 
+ 
+  
+
